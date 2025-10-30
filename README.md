@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Máté Pálmai</h1>
-<h3 align="center">A developer from Hungary specializing in full-stack, API, backend, mobile, desktop, and game development.</h3>
+<h3 align="center">A developer from Hungary specializing in full-stack, API, backend, mobile, and desktop development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
