@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Máté Pálmai</h1>
 
-<div align="center">
+<!-- <div align="center">
   <table align="center">
     <tr>
       <td align="left">
@@ -26,4 +26,4 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
